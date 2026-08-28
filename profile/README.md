@@ -10,7 +10,7 @@ Our public work is designed around explicit assumptions, reproducible execution,
 
 Current projects include:
 
-- **BOUT Grid Suite** — tools for designing, generating, inspecting and validating computational grids for BOUT++ plasma simulation workflows.
+- **[BOUT Grid Suite](https://github.com/Chatwood-Labs/bout-grid-suite)** — tools for designing, generating, inspecting and validating computational grids for BOUT++ plasma simulation workflows.
 - **Physics Validation Suite (PVS)** — an open validation framework for reproducible testing and comparison of fusion physics and simulation software. *(In development.)*
 - **BurnLab** — a research environment for investigating local plasma behaviour under strongly self-heated fusion conditions. *(In development.)*
 
